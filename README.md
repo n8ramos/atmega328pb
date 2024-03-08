@@ -1,2 +1,2 @@
-# da2
+# design assignments with AVR
 CPE301
