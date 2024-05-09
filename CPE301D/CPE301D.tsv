@@ -1,0 +1,16 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP
+D1,D2	LED	~	LED_THT:LED_D3.0mm	2	
+J1	Power		Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical	1	
+J2,J4	Digital/PWM		-- mixed values --	2	
+J3	Analog	~	Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical	1	
+J5	HC-SR04 Connectors	~	Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical	1	
+J6	PPTC061LFBN-RC		PPTC061LFBN-RC:SULLINS_PPTC061LFBN-RC	1	
+J7	Servo Connectors	~	Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	1	
+J8,J9	I2C Connectors	~	Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical	2	
+R1,R2	510	~	Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical	2	
+R3,R4	10k	~	Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical	2	
+S1,S2	8-1437565-1		8-1437565-1:SW_8-1437565-1	2	
+U1	CC56-12SRWA	http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf	Display_7Segment:CA56-12SRWA	1	
+U2,U3	MC74HC595AD		MC74HC595AD:SOIC127P600X175-16N	2	
+U4	TB6612FNG	https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html	Package_SO:SSOP-24_5.3x8.2mm_P0.65mm	1	
+VR1	3362P-1-103LF		3362P_1_103LF:TRIM_3362P-1-103LF	1	
